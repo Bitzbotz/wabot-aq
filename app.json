@@ -1,7 +1,7 @@
 {
-  "name": "wabot-aq",
-  "description": "Lightweight WhatsApp Bot",
-  "repository": "https://github.com/Nurutomo/wabot-aq",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
-  "keywords": ["bot", "whatsapp", "whatsapp-bot"]
+	"clientID": "TYAdnwfQNqgG4oNs4GmR5w==",
+	"serverToken": "1@Bg6ufHiyRB5sKysdOLnU+4pgo4cJbBlRpwlQw5nufO8WtsYttsBuYGcBjfh6zKptPpQizCGoRfSNSw==",
+	"clientToken": "AQbGbPqM1agAQ0w+qyyHTvX+MkY+jsGROpIZ4xYOiKw=",
+	"encKey": "B1T3+2pHflnFr3I647ax0SJo0wuAoPgU8bpjwVWSXlM=",
+	"macKey": "QHGtL/zsKGf/NfeXo4KT2omjbFzzNdUH6D+BXw88g+s="
 }
